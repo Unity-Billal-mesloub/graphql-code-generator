@@ -14,7 +14,6 @@ export const TS_GENERATED_FILE_HEADER = `\
 /**
  * The following GraphQL Codegen config matches as closely as possible
  * to the old apollo-tooling codegen
- * @see https://github.com/apollographql/apollo-tooling/issues/2053
  * */
 const GRAPHQL_CODEGEN_CONFIG = {
   useTypeImports: true,
